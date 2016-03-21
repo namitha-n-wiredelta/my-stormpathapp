@@ -1,0 +1,4 @@
+api_doc
+ Reference links : https://stormpath.com/blog/build-nodejs-express-stormpath-app/
+
+ 					Login through FB :http://docs.stormpath.com/nodejs/express/latest/social_login.html#facebook-login
